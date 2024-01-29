@@ -1,0 +1,21 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.photo{
+    width: 150px;
+    }
+.card{
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 40px auto;
+    text-align: center;
+    border-bottom: 5px solid #d8cefe;
+    background: #dd2bF8;
+    color: #2b2839;
+}
+.blubor{
+    border:2px dotted blue;
+}
